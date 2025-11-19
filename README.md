@@ -17,7 +17,7 @@ The business case analysis consists of four dashboards:
 
 **1) Executive Dashboard:** Provides a quick overview of the company’s financial status. It highlights key performance metrics (revenue, profit, orders, and return rate) as well as the most popular and most profitable items.
    
-![Executive Dashboard Screenshot](https://github.com/Pablo3621/Power-BI---Bike-Company-Dashboard/blob/main/Screenshots/Customer%20Detail.png)
+![Executive Dashboard Screenshot](https://github.com/Pablo3621/Power-BI---Bike-Company-Dashboard/blob/main/Screenshots/Executive%20Dashboard.png)
  
 
 **2) Map Dashboard:** Shows the relative importance of each market in which the company operates, based on the number of orders.
