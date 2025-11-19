@@ -8,7 +8,7 @@ AdventureWorks, a company specializing in bicycles and sports equipment, has exp
 
  - Identify the most successful products and determine which ones generate the highest profitability.
 
- - Customer segmentation
+ - Allow customer analysis and segmentation
 
 
 ## Dashboards
